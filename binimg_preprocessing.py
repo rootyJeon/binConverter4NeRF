@@ -8,7 +8,7 @@
 import struct
 from functools import partial
 
-filename = "C:/Users/HenryJeon/Desktop/Arcreal/arcreal/intensity_l.dat"
+filename = "..."
 
 struct_fmt = 'B'
 # 'B' is for 1byte(8bit) unsigned integer which is same as uint8 in C++
